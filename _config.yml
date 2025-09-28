@@ -16,10 +16,10 @@ minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : de
-title                    : Ontore
+title                    : Oliver Hoffmann
 title_separator          : " "
 subtitle                 : " "
-name                     : "Ontore"
+name                     : "Oliver Hoffmann"
 description              : ""
 url                      : https://ontore.eu
 baseurl                  : /
@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ontore"
+  name             : "Oliver Hoffmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ontore.eu"
   location         : "Austria"
