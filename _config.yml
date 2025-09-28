@@ -131,6 +131,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: https://ontore.eu/assets/images/LinkedIn_icon.svg
+      url: https://www.linkedin.com/in/ontore/
     - # label: "Bluesky"
       # icon: https://demokratie.at/assets/images/2024-11-20-bluesky.svg
       # url: https://bsky.app/profile/demokratie.at
