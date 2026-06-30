@@ -17,16 +17,16 @@ minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark
 # Site Settings
 locale                   : de
 title                    : Ontore
-title_separator          : "|"
-subtitle                 : " "
-name                     : "Oliver Hoffmann"
-description              : ""
+title_separator          : |
+subtitle                 : 
+name                     : Oliver Hoffmann
+description              : 
 url                      : https://ontore.eu
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/2026-06-30-Ontore.svg
 logo                     : /assets/images/2026-06-30-Ontore.svg
-masthead_title           : " "
+masthead_title           : 
 # breadcrumbs            : false
 words_per_minute         : 200
 comments:
@@ -103,35 +103,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oliver Hoffmann"
+  name             : Oliver Hoffmann
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ontore.eu"
-  location         : "Austria"
+  bio              : ontore.eu
+  location         : Austria
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: Email
+      icon: fas fa-fw fa-envelope-square
+      # url: mailto:your.name@email.com
+    - label: Website
+      icon: fas fa-fw fa-link
+      # url: https://your-website.com
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      # url: https://twitter.com/
+    - label: Facebook
+      icon: fab fa-fw fa-facebook-square
+      # url: https://facebook.com/
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      # url: https://github.com/
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      # url: https://instagram.com/
 
 # Site Footer
 footer:
   links:
-    - label: "LinkedIn"
+    - label: LinkedIn
       icon: https://ontore.eu/assets/images/LinkedIn_icon.svg
       url: https://www.linkedin.com/in/ontore/
     - # label: "Bluesky"
@@ -190,7 +190,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: utf-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
